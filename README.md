@@ -11,7 +11,7 @@
 Go to project directory to run code
 
 ```bash
-  cd react-native-uber-clone
+  cd uber-clone
 ```
 
 For Dependencies, 
