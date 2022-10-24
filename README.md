@@ -21,4 +21,7 @@ For Dependencies,
 ```
 
 ### ScreenShots
-![ezgif-7-2d01dc3b82b1](https://user-images.githubusercontent.com/66909138/197474207-b47a94b2-ca5a-48b3-bf99-8f328cd014a2.gif)
+
+![Screenshot_20221021-164613_Expo Go](https://user-images.githubusercontent.com/66909138/197516871-ec89ddbd-7dd7-4a39-8e4b-a16ff8496b66.jpg)
+
+![Screenshot_20221021-164724_Expo Go](https://user-images.githubusercontent.com/66909138/197516884-7e947892-df47-49c9-b88d-64b3a8b03e48.jpg)
